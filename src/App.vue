@@ -1,3 +1,9 @@
+<!--
+ * @Author: miroku.yang
+ * @Date: 2024-06-28 15:07:09
+ * @LastEditors: Please set LastEditors
+ * @Description: 
+-->
 <script setup lang="ts">
 import { onLaunch, onShow, onHide } from "@dcloudio/uni-app";
 onLaunch(() => {
@@ -10,4 +16,4 @@ onHide(() => {
   console.log("App Hide");
 });
 </script>
-<style></style>
+<style lang="scss"></style>
